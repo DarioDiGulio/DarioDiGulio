@@ -21,3 +21,8 @@ Podés Probarlo [acá](https://dariodigulio.github.io/TODO-LocalStorage)
 
 > Se trata de un programa hecho en javascript que lee la información dispuesta en un archivo XML y los muestra en la consola del navegador.
 Podés Probarlo [acá](https://dariodigulio.github.io/ReadXMLWithJavascript)
+
+* [ProConsole](https://github.com/DarioDiGulio/pro-console-log)
+
+> Es un módulo subido a npm para loguear en la consola con colores por estados. También se puede loguear en un archivo externo.
+Podés ver cómo funciona [acá](https://www.npmjs.com/package/@dariodigulio/pro-log-js)
